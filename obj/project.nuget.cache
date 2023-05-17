@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VY2cX0zMVB9U9wf9pRQE+0pO1860WA1n6+IFIOQgpuDn0hWd3v1yOqeqdotuD/Zke+sB+FyzdwBM5J9tr/ZRjg==",
+  "success": true,
+  "projectFilePath": "D:\\coureses\\issam\\slides_important\\9.method\\assignmentps\\assignmentps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdo\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

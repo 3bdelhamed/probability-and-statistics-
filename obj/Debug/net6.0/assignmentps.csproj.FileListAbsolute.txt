@@ -1,0 +1,17 @@
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\assignmentps.exe
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\assignmentps.deps.json
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\assignmentps.runtimeconfig.json
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\assignmentps.dll
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\assignmentps.pdb
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.csproj.AssemblyReference.cache
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.GeneratedMSBuildEditorConfig.editorconfig
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.AssemblyInfoInputs.cache
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.AssemblyInfo.cs
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.csproj.CoreCompileInputs.cache
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.dll
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\refint\assignmentps.dll
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.pdb
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.genruntimeconfig.cache
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\ref\assignmentps.dll
+D:\coureses\issam\slides_important\9.method\assignmentps\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\coureses\issam\slides_important\9.method\assignmentps\obj\Debug\net6.0\assignmentps.csproj.CopyComplete
